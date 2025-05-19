@@ -1,0 +1,6 @@
+INFO: Inicio de ejecución
+WARNING: Variable sin inicializar
+ERROR: Falla en el subsistema A
+INFO: Verificación completa
+ERROR: Timeout en la conexión
+WARNING: Memoria al límite
